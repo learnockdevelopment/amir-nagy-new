@@ -76,5 +76,18 @@
 	<array>
 		<string>_dartobservatory._tcp</string>
 	</array>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.49233807571-43jpuohpjf5gn66lqrdurfglu3b5c9jj</string>
+				<string>com.googleusercontent.apps.576268624227-295rbopo1rin4i9mmca18vsq1e89t0r9</string>
+				<string>com.googleusercontent.apps.186645707534-eqsldonr1m4mis7fv8u87vh47vbhie29</string>
+			</array>
+		</dict>
+	</array>
 </dict>
 </plist>
