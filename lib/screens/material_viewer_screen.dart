@@ -5,21 +5,21 @@ import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
 import 'package:no_screenshot/no_screenshot.dart';
 import 'package:google_fonts/google_fonts.dart' as modern_fonts;
-import 'package:amirnagyy/providers/workspace_provider.dart';
-import 'package:amirnagyy/providers/language_provider.dart';
-import 'package:amirnagyy/providers/theme_provider.dart';
+import 'package:amirnagy/providers/workspace_provider.dart';
+import 'package:amirnagy/providers/language_provider.dart';
+import 'package:amirnagy/providers/theme_provider.dart';
 import 'package:chewie/chewie.dart';
 import 'package:video_player/video_player.dart';
 import 'package:flutter_pdfview/flutter_pdfview.dart';
-import 'package:amirnagyy/screens/simple_scanner_screen.dart';
-import 'package:amirnagyy/widgets/premium_loader.dart';
+import 'package:amirnagy/screens/simple_scanner_screen.dart';
+import 'package:amirnagy/widgets/premium_loader.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:http/http.dart' as http;
 import 'dart:async';
 import 'dart:io';
 import 'package:file_picker/file_picker.dart';
-import 'package:amirnagyy/config/app_config.dart';
-import 'package:amirnagyy/widgets/watermark_overlay.dart';
+import 'package:amirnagy/config/app_config.dart';
+import 'package:amirnagy/widgets/watermark_overlay.dart';
 
 void _showImageModal(BuildContext context, String imageUrl) {
   showDialog(
