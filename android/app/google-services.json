@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "576268624227",
+    "project_id": "amir-nagy-469310",
+    "storage_bucket": "amir-nagy-469310.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576268624227:android:add7d18d796b33757c3356",
+        "android_client_info": {
+          "package_name": "com.amir.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576268624227-8cjf0fu93hbbibk7oufp0pfphq90k89f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amir.app",
+            "certificate_hash": "55aa69b3facd8b29215b345c3d35f9a8bb500abc"
+          }
+        },
+        {
+          "client_id": "576268624227-8vifu7vsr7cnm4a1b8plvajin44aq0op.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amir.app",
+            "certificate_hash": "baa70028cc903bb98871cd157b1ad80b71ec024d"
+          }
+        },
+        {
+          "client_id": "576268624227-b3dhr9630luao5d8sd5bq07nhd0b4p2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amir.app",
+            "certificate_hash": "100c66e29309bac7eb23647b1cfccefc643bff2c"
+          }
+        },
+        {
+          "client_id": "576268624227-l0qq23mreprpa31dcpn2vomang08a305.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amir.app",
+            "certificate_hash": "031f8fb3e3dc6ff8593553e79b8674bfdd80f13f"
+          }
+        },
+        {
+          "client_id": "576268624227-rc4m2uf3antvleg4ho9d9qv0dpdjg75v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amir.app",
+            "certificate_hash": "cd7b502cbb169f1ea0a7b9f65a964a7a51183726"
+          }
+        },
+        {
+          "client_id": "576268624227-fpiukeeoqeloau9biln9h5mg0lg7din0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsrJmKL7i3khwQJDXEIalKp_s6YLUBBkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576268624227-fpiukeeoqeloau9biln9h5mg0lg7din0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "576268624227-295rbopo1rin4i9mmca18vsq1e89t0r9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.amir.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
